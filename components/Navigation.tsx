@@ -83,7 +83,7 @@ export const Navigation: React.FC<NavigationProps> = ({ onNavigate, currentSecti
             onClick={() => handleNavClick(0)}
           >
             <img 
-              src="https://www.google.com/url?sa=E&q=https%3A%2F%2Fi.postimg.cc%2F13Q6MqBC%2F475252253-579232535096381-4554212589792718853-n.jpg" 
+              src="https://i.postimg.cc/13Q6MqBC/475252253-579232535096381-4554212589792718853-n.jpg" 
               alt="MasterDeveloper" 
               className="h-9 w-auto object-contain rounded-lg shadow-lg group-hover:scale-105 transition-transform duration-300" 
             />
